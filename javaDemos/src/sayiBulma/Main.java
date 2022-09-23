@@ -15,9 +15,9 @@ public class Main {
 			}
 		}
 		if (varMi) {
-			System.out.println("vardııır...");
+			System.out.println("Vardır...");
 		} else {
-			System.out.println("yoktııır...");
+			System.out.println("Yoktur...");
 		}
 
 	}
